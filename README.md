@@ -20,6 +20,7 @@
 
 End Result:
 contract JointSavings {
+   address payable accountOne;
 
     address payable accountOne;
     address payable accountTwo;
